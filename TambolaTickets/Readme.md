@@ -125,11 +125,11 @@ tambola/
 * All non-zero values form a valid Tambola ticket
 * Example Output
 
-&nbsp;    0    14     0    32     0    58     0    71    83
+&nbsp;    0     14      0     32      0     58      0     71     83
 
-&nbsp;    5     0    27     0    44     0    66     0    90
+&nbsp;    5      0     27      0     44      0     66      0     90
 
-&nbsp;    9     0     0    39    48     0     0    75     0
+&nbsp;    9      0      0     39     48      0      0     75      0
 
 
 
