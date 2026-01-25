@@ -16,5 +16,7 @@ various Digital Image Processing concepts.
 
 \- Tambola Ticket                    -25 January 2026
 
+\- Wavelet transform                 -25 January 2026  
+
 More projects will be added progressively.
 
