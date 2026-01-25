@@ -14,9 +14,14 @@ various Digital Image Processing concepts.
 
 \- Histogram Equalization             -18 January 2026
 
-\- Tambola Ticket                    -25 January 2026
+\- Tambola Ticket                     -25 January 2026
 
-\- Wavelet transform                 -25 January 2026  
+\- Wavelet transform                  -25 January 2026  
+
+\- Bit Plane Slicing                  -25 January 2026  
+
+\- Huffman Encoding                   -25 January 2026  
+
 
 More projects will be added progressively.
 
