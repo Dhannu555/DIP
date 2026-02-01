@@ -22,6 +22,13 @@ various Digital Image Processing concepts.
 
 \- Huffman Encoding                   -25 January 2026  
 
+\- Hypothesis Testing                 -1 February 2026  
+
+\- Arithematic Encoding               -1 February 2026  
+
+
+
+
 
 More projects will be added progressively.
 
