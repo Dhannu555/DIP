@@ -26,6 +26,8 @@ various Digital Image Processing concepts.
 
 \- Arithematic Encoding               -1 February 2026  
 
+\- JPEG_Compression                   -2 February 2026  
+
 
 
 
