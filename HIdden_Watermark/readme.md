@@ -28,15 +28,6 @@ Watermark is embedded in mid-frequency coefficients for a balance of invisibilit
 
 &#x09;
 
-## **Notes**
-
-1.Image size divisible by 8
-
-2.Watermark resized to M/8 × N/8
-
-3.Strength (0.05) is tunable
-
-
 
 
 
@@ -57,4 +48,9 @@ Watermark is embedded in mid-frequency coefficients for a balance of invisibilit
 ## **Author**
 
 Dhananjay Agrahari
+Anubhav Rathore
+Aman kanaujiya
+Sandesh Jat
+
+
 
