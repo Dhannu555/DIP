@@ -48,8 +48,11 @@ Watermark is embedded in mid-frequency coefficients for a balance of invisibilit
 ## **Author**
 
 Dhananjay Agrahari
+
 Anubhav Rathore
+
 Aman kanaujiya
+
 Sandesh Jat
 
 

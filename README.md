@@ -28,6 +28,8 @@ various Digital Image Processing concepts.
 
 \- JPEG_Compression                   -2 February 2026  
 
+\- Hidden_Watermark                   -14 April 2026
+
 
 
 
